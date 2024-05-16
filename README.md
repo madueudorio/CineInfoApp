@@ -10,8 +10,10 @@ incluindo filmes, séries,esportes e muito mais.
 Interface Amigável: Navegue de forma intuitiva e salve seus conteúdos favoritos para assistir offline.
 ```
 O Que Não Oferece:
-Programas de TV ao Vivo: O Cine Info não transmite programas de TV ao vivo, mas fornece informações sobre a programação televisiva.
-Descubra o Cine Info e mergulhe em um mundo de entretenimento online!
+Programas de TV ao Vivo: O Cine Info não transmite programas 
+de TV ao vivo, mas fornece informações sobre a programação 
+televisiva. Descubra o Cine Info e mergulhe em um mundo 
+de entretenimento online!
 
 # Inicializando
 
