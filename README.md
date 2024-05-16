@@ -12,7 +12,7 @@ Interface Amigável: Navegue de forma intuitiva e salve seus conteúdos favorito
 O Que Não Oferece:
 Programas de TV ao Vivo: O Cine Info não transmite programas 
 de TV ao vivo, mas fornece informações sobre a programação 
-televisiva. Descubra o Cine Info e mergulhe em um mundo 
+televisiva. Descubra o Cine Info e mergulhe em um mundo
 de entretenimento online!
 
 # Inicializando
@@ -20,7 +20,7 @@ de entretenimento online!
 > Certifique-se de ter concluído as instruções do React Native - Configuração do ambiente até a etapa "Criando um novo aplicativo", antes de continuar.
 
 ## 1° Passo
-Primeiro você precisa installar os pacotes dos projetos, dando o seguinte comando:
+Primeiro você precisa instalar os pacotes dos projetos, dando o seguinte comando:
 
 npm install
 
