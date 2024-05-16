@@ -19,12 +19,12 @@ de entretenimento online!
 
 > Certifique-se de ter concluído as instruções do React Native - Configuração do ambiente até a etapa "Criando um novo aplicativo", antes de continuar.
 
-1° Passo
+## 1° Passo
 Primeiro você precisa installar os pacotes dos projetos, dando o seguinte comando:
 
 npm install
 
-2° Passo
+## 2° Passo
 Depois você precisará iniciar o Metro , o empacotador JavaScript que acompanha o React Native.
 
 Para iniciar o Metro, execute o seguinte comando na raiz do seu projeto React Native:
@@ -36,7 +36,7 @@ npm start
 yarn start
 ```
 
-3° Passo
+## 3° Passo
 Deixe o Metro Bundler rodar em seu próprio terminal. Abra um novo terminal na raiz do seu projeto React Native. Execute o seguinte comando para iniciar seu aplicativo Android ou iOS :
 
 ### Para Android
@@ -62,7 +62,7 @@ Se tudo estiver configurado corretamente , você deverá ver seu novo aplicativo
 
 Esta é uma maneira de executar seu aplicativo – você também pode executá-lo diretamente no Android Studio e no Xcode, respectivamente.
 
-4° Passo: 
+## 4° Passo: 
 Agora que você executou o aplicativo com sucesso, vamos modificá-lo.
 
 Abra App.tsxno editor de texto de sua preferência e edite algumas linhas.
