@@ -2,13 +2,13 @@ Este é um novo projeto React Native , inicializado usando @react-native-communi
 
 Apresentando o Cine Info: Seu Guia de Entretenimento Online
 Descubra o Cine Info, um aplicativo gratuito que oferece uma ampla variedade de filmes e séries para sua diversão. Com acesso a conteúdo de fontes como YouTube e Twitch, o Cine Info é sua porta de entrada para o entretenimento online.
-```
+
 Principais Características:
 Filmes e Séries: Explore uma vasta seleção de filmes e programas de TV para todos os gostos.
 Informações de Programação: Fique por dentro da programação de TV,
 incluindo filmes, séries,esportes e muito mais.
 Interface Amigável: Navegue de forma intuitiva e salve seus conteúdos favoritos para assistir offline.
-```
+
 O Que Não Oferece:
 Programas de TV ao Vivo: O Cine Info não transmite programas 
 de TV ao vivo, mas fornece informações sobre a programação 
@@ -23,11 +23,12 @@ de entretenimento online!
 Primeiro você precisa installar os pacotes dos projetos, dando o seguinte comando:
 
 npm install
-```
+
 2° Passo
 Depois você precisará iniciar o Metro , o empacotador JavaScript que acompanha o React Native.
 
 Para iniciar o Metro, execute o seguinte comando na raiz do seu projeto React Native:
+```bash
 # use npm
 npm start
 
