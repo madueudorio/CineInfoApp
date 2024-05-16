@@ -2,10 +2,11 @@ Este é um novo projeto React Native , inicializado usando @react-native-communi
 
 Apresentando o Cine Info: Seu Guia de Entretenimento Online
 Descubra o Cine Info, um aplicativo gratuito que oferece uma ampla variedade de filmes e séries para sua diversão. Com acesso a conteúdo de fontes como YouTube e Twitch, o Cine Info é sua porta de entrada para o entretenimento online.
-
+```
 Principais Características:
 Filmes e Séries: Explore uma vasta seleção de filmes e programas de TV para todos os gostos.
-Informações de Programação: Fique por dentro da programação de TV, incluindo filmes, séries, esportes e muito mais.
+Informações de Programação: Fique por dentro da programação de TV,
+incluindo filmes, séries,esportes e muito mais.
 Interface Amigável: Navegue de forma intuitiva e salve seus conteúdos favoritos para assistir offline.
 ```
 O Que Não Oferece:
